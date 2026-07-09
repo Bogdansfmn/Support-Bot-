@@ -1,4 +1,4 @@
-# 🤖 Support Bot — Интеллектуальный бот для техподдержки с LLM
+# 🤖 Support Bot - Интеллектуальный бот для техподдержки с LLM
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)](https://fastapi.tiangolo.com/)
